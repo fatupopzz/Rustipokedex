@@ -6,5 +6,5 @@ La verdad que experiencia mas horrible
 
 ## como correr
 
-Cargo build
-Cargo run
+- Cargo build
+- Cargo run
