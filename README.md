@@ -6,18 +6,18 @@ La verdad que experiencia mas horrible
 
 ## Estructura del proyecto
 
--src/main.rs - Punto de entrada de la aplicación
--src/pokemon.rs - Definiciones de las estructuras y métodos para los Pokémon
--src/database.rs - Lógica para cargar y gestionar los datos desde el CSV
--src/ui/mod.rs - Implementación de la interfaz gráfica con egui
--assets/pokedex.csv - Base de datos de Pokémon en formato CSV
+- src/main.rs - Punto de entrada de la aplicación
+- src/pokemon.rs - Definiciones de las estructuras y métodos para los Pokémon
+- src/database.rs - Lógica para cargar y gestionar los datos desde el CSV
+- src/ui/mod.rs - Implementación de la interfaz gráfica con egui
+- assets/pokedex.csv - Base de datos de Pokémon en formato CSV
 
 ## Tecnologías utilizadas
 
--Rust - Lenguaje de programación seguro y de alto rendimiento
--egui - Framework ligero para interfaces gráficas en Rust
--serde - Serialización/deserialización de datos
--csv - Manipulación de archivos CSV
+- Rust - Lenguaje de programación seguro y de alto rendimiento
+- egui - Framework ligero para interfaces gráficas en Rust
+- serde - Serialización/deserialización de datos
+- csv - Manipulación de archivos CSV
 
 ## como correr
 
